@@ -25,6 +25,18 @@
       "remark": "无"
     },
     {
+      "name": "曹婷",
+      "id-card": "622630200309290048",
+      "enroll-number": "622499262",
+      "exam-number": "165516212609775",
+      "total-score": "319",
+      "first-subject": "(101)思想政治理论：49",
+      "second-subject": "(204)英语（二）：48",
+      "third-subject": "(302)数学（二）：126",
+      "fourth-subject": "(831)工程力学：96",
+      "remark": "无"
+    },
+    {
       "name": "李皓琳",
       "id-card": "152101200404060329",
       "enroll-number": "460898830",
@@ -87,3 +99,4 @@
   ]
 
 }
+
