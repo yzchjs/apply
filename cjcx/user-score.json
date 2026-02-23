@@ -1,0 +1,76 @@
+{
+  "user-score": [
+    {
+      "name": "王小小",
+      "id-card": "44033619900101001X",
+      "enroll-number": "123456",
+      "exam-number": "654321",
+      "total-score": "326",
+      "first-subject": "(101)思想政治理论：78",
+      "second-subject": "(201)英语（一）：67",
+      "third-subject": "(302)数学（二）：50",
+      "fourth-subject": "(805)生物化学a：131",
+      "remark": "无"
+    },
+    {
+      "name": "张三",
+      "id-card": "34032119900101001X",
+      "enroll-number": "567890",
+      "exam-number": "098765",
+      "total-score": "320",
+      "first-subject": "(101)思想政治理论：78",
+      "second-subject": "(201)英语（一）：67",
+      "third-subject": "(302)数学（二）：50",
+      "fourth-subject": "(805)生物化学a：131",
+      "remark": "无"
+    },
+    {
+      "name": "李皓琳",
+      "id-card": "152101200404060329",
+      "enroll-number": "460898830",
+      "exam-number": "102706210008031",
+      "total-score": "316",
+      "first-subject": "(101)思想政治理论：56",
+      "second-subject": "(204)英语（二）：55",
+      "third-subject": "(333)教育综合：104",
+      "fourth-subject": "(835)学前教育专业综合：101",
+      "remark": "无"
+    },
+    {
+      "name": "鲍颖琳",
+      "id-card": "510781200405087101",
+      "enroll-number": "460899127",
+      "exam-number": "116586146080415",
+      "total-score": "266",
+      "first-subject": "(101)思想政治理论：76",
+      "second-subject": "(201)英语（一）：72",
+      "third-subject": "(311)教育学专业基础：118",
+      "fourth-subject": "无",
+      "remark": "无"
+    },
+    {
+      "name": "欧阳文慧",
+      "id-card": "320781200311087101",
+      "enroll-number": "460893167",
+      "exam-number": "101706260000031",
+      "total-score": "350",
+      "first-subject": "(101)思想政治理论：70",
+      "second-subject": "(204)英语（二）：70",
+      "third-subject": "(333)教育综合：110",
+      "fourth-subject": "(852)基础英语：100",
+      "remark": "无"
+    },
+    {
+      "name": "刘学东",
+      "id-card": "622201200209055717",
+      "enroll-number": "620499078",
+      "exam-number": "107416620400968",
+      "total-score": "341",
+      "first-subject": "(101)思想政治理论：66",
+      "second-subject": "(204)英语（二）：54",
+      "third-subject": "(396)经济类综合能力：92",
+      "fourth-subject": "(432)统计学：129",
+      "remark": "无"
+    }
+  ]
+}

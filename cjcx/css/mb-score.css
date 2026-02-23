@@ -1,0 +1,139 @@
+html {
+  font-size: 16px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Microsoft YaHei","Hiragino Sans GB","WenQuanYi Micro Hei",Arial,"SimSun","sans-serif";    
+}
+body {
+    transition: all 0.3s ease;
+}
+
+.nav {
+  width: 100%;
+  background: #fff;
+  padding: .75rem 1.25rem;
+}
+.nav ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+.nav-logo a {
+  display: inline-block;
+  width: 7.375rem;
+  height: 1.375rem;
+  text-decoration: none;
+}
+.nav-logo a img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.nav ul li.nav-menu,
+.nav ul li.nav-more {
+  display: none;
+}
+.nav-bar {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+.nav-bar i {
+  font-size: 1.25rem;
+}
+
+.title {
+  background: #2893e9;
+  color: #fff;
+  font-size: 1.125rem;
+  text-align: center;
+  padding: .75rem 0;
+  margin-bottom: .625rem;
+}
+
+.banner{
+  display: none;
+}
+
+.main {
+  width: 100%;
+  padding: .625rem 0rem;
+  margin-bottom: .625rem;
+}
+
+.user-score {
+  width: 100%;
+  padding: 0rem .625rem;
+  font-size: 1.125rem;
+  background: #fff;
+}
+.user-score ul li {
+  list-style: none;
+  padding: .9375rem 0;
+  border-bottom: .0625rem solid #eee;
+}
+.user-score-item-label {
+  display: inline-block;
+  width: 7.5rem;
+  color: #666;
+  line-height: 1.25rem;
+}
+
+.notice {
+  font-size: .9375rem;
+  color: #999;
+  line-height: 1.25rem;
+  margin: 1.25rem 0;
+  padding: 0 .75rem;
+}
+.notice p {
+  margin-bottom: .3125rem;
+}
+
+.button {
+  width: 100%;
+  margin: 1.25rem 0;
+  padding: 0 .75rem;
+}
+.button button {
+  display: inline-block;
+  width: 100%;
+  height: 2.5em;
+  font-size: 1.125rem;
+  color: #fff;
+  background: #2893e9;
+  border: none;
+}
+.button button:hover {
+  background: #1a73c2;
+}
+.tips {
+  display: none;
+}
+
+.footer {
+  width: 100%;
+}
+.footer-container {
+  width: 100%;
+  background: #282828;
+  font-size: .8125rem;
+  color: #999;
+  line-height: normal;
+  padding: .75rem 0;
+}
+.footer-container p {
+  line-height: 1.375rem;
+  text-align: center;
+}
+.footer-container p:nth-child(1) {
+  text-align: left;
+  text-indent: 4em;
+}
+.footer-container-2 {
+  display: none;
+}
