@@ -49,6 +49,18 @@
       "remark": "无"
     },
     {
+      "name": "赵焱",
+      "id-card": "152628200210246480",
+      "enroll-number": "463899117",
+      "exam-number": "106586146780415",
+      "total-score": "322",
+      "first-subject": "(101)思想政治理论：70",
+      "second-subject": "(201)英语（一）：65",
+      "third-subject": "(306)临床医学综合能力（西医）：187",
+      "fourth-subject": "无",
+      "remark": "无"
+    },
+    {
       "name": "欧阳文慧",
       "id-card": "320781200311087101",
       "enroll-number": "460893167",
@@ -73,4 +85,5 @@
       "remark": "无"
     }
   ]
+
 }
