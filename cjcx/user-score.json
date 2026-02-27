@@ -1,18 +1,6 @@
 {
   "user-score": [
     {
-      "name": "王小小",
-      "id-card": "20260101",
-      "enroll-number": "123456",
-      "exam-number": "654321",
-      "total-score": "326",
-      "first-subject": "(101)思想政治理论：78",
-      "second-subject": "(201)英语（一）：67",
-      "third-subject": "(302)数学（二）：50",
-      "fourth-subject": "(805)生物化学a：131",
-      "remark": "无"
-    },
-    {
       "name": "张三",
       "id-card": "34032119900101001X",
       "enroll-number": "567890",
@@ -99,5 +87,6 @@
   ]
 
 }
+
 
 
